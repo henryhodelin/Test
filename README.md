@@ -15,7 +15,7 @@
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2018-08/2023) 
   -  Position: PhD Student (Degree incompleted due to health problems)
-     -   [Representation of Multiple Operators in Nonlinear Optics using a single functionally weighted  Neural Network](./https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)
+     -   [Representation of Multiple Operators in Nonlinear Optics using a single functionally weighted  Neural Network](https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)
         - Function representation using neural networks
         - Solution of differential equations using neural networks (PINNs)
         - Representation of Nonlinear Operators using neural networks (DeepONet)
@@ -29,7 +29,7 @@
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2013-08/2015) 
   - Position: MS Student
     - Micromagnetic simulation for studying the effects of roughness in nickel nanowires ([Simulação micromagnética para o estudo dos efeitos de
-rugosidade em nanoﬁos de níquel](./https://repositorio.ufpe.br/bitstream/123456789/17699/1/Dissertacao-Version-Final.pdf)
+rugosidade em nanoﬁos de níquel](https://repositorio.ufpe.br/bitstream/123456789/17699/1/Dissertacao-Version-Final.pdf)
 
     
 - Universidad de Oriente------------------------------------Santiago, Cuba (08/2012-07/2013)
@@ -63,7 +63,7 @@ rugosidade em nanoﬁos de níquel](./https://repositorio.ufpe.br/bitstream/1234
 
 ## Talks
 
-- Nov. 2022. [Machine learning approach to nonlinearity management in optical media](./https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)”, at: UFPE-DF Colloquium in Brazil 
+- Nov. 2022. [Machine learning approach to nonlinearity management in optical media](https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)”, at: UFPE-DF Colloquium in Brazil 
 
 
 ## Papers
